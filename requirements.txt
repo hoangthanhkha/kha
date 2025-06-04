@@ -1,5 +1,1 @@
-colorama
-requests
-bs4
-pycryptodome
-art
+htkdthw
